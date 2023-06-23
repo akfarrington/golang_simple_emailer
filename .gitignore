@@ -1,0 +1,5 @@
+test-emails/
+emailer.env
+list.csv
+.firstrun
+.DS_Store
